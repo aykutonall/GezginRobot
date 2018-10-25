@@ -1,0 +1,7 @@
+D:\GezginRobot\GezginRobot\obj\Debug\GezginRobot.csprojAssemblyReference.cache
+D:\GezginRobot\GezginRobot\obj\Debug\GezginRobot.csproj.CoreCompileInputs.cache
+D:\GezginRobot\GezginRobot\bin\Debug\GezginRobot.exe.config
+D:\GezginRobot\GezginRobot\bin\Debug\GezginRobot.exe
+D:\GezginRobot\GezginRobot\bin\Debug\GezginRobot.pdb
+D:\GezginRobot\GezginRobot\obj\Debug\GezginRobot.exe
+D:\GezginRobot\GezginRobot\obj\Debug\GezginRobot.pdb

@@ -39,7 +39,7 @@ namespace GezginRobot
                 hareket[i] = dizge[i].ToString();
             }
 
-            //gezgin robotun başlangıç konumunun dikdörtgen sınırlarını aşmadığı kontrol ediliyor.
+            //gezgin1 robotun başlangıç konumunun dikdörtgen sınırlarını aşmadığı kontrol ediliyor.
             if (dikdortgenX < robot1X)
                 robot1X = dikdortgenX;
             if (dikdortgenY < robot1Y)
@@ -64,7 +64,7 @@ namespace GezginRobot
                 hareket2[i] = dizge2[i].ToString();
             }
 
-            //gezgin robotun başlangıç konumunun dikdörtgen sınırlarını aşmadığı kontrol ediliyor.
+            //gezgin2 robotun başlangıç konumunun dikdörtgen sınırlarını aşmadığı kontrol ediliyor.
             if (dikdortgenX < robot2X)
                 robot2X = dikdortgenX;
             if (dikdortgenY < robot2Y)
